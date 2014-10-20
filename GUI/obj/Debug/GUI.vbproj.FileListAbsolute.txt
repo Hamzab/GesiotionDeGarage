@@ -1,0 +1,37 @@
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\obj\Debug\GUI.Form1.resources
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\obj\Debug\GUI.Resources.resources
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\GUI.exe.config
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\GUI.exe
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\GUI.pdb
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\GUI.xml
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\obj\Debug\GUI.exe
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\obj\Debug\GUI.xml
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\obj\Debug\GUI.pdb
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\BLL.dll
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\DAL.dll
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\BLL.pdb
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\BLL.xml
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\DAL.pdb
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\bin\Debug\DAL.xml
+c:\Users\nejib\documents\visual studio 2013\Projects\Garage2\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\BLL.dll
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\DAL.dll
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\BLL.pdb
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\BLL.xml
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\DAL.pdb
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\DAL.xml
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\Gestion de garage.exe.config
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\Gestion de garage.exe
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\Gestion de garage.pdb
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\bin\Debug\Gestion de garage.xml
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\Gestion de garage.exe
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\Gestion de garage.xml
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\Gestion de garage.pdb
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\GUI.Afficher.resources
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\GUI.Modification.resources
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2013\Projects\Garage2\Garage2\GUI\obj\Debug\GUI.Supprission.resources
